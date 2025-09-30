@@ -1,10 +1,10 @@
 {
     'name': "Website Product Lazy Load",
     'summary': "Seamless scrolling and optimized loading speed for eCommerce.",
-    'description': """Enhance your customers' shopping experience with lazy loading...""",
-    'author': "Wisenetic",
+    'description': """ Enhance your customers' shopping experience with lazy loading...""",
+    'author': "Moeed Nasir",
     'website': "https://www.wisenetic.com",
-    "support": "info@wisenetic.com",
+    "support": "https://moeed-portfolio.netlify.app/",
     'category': 'website',
     'version': '18.0.0.0.1',
     'depends': ['website_sale'],
